@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="owner_name">Zvonimir Plivelić</string>
+    <string name="owner_title">Digital Mercenary</string>
+    <string name="telephone_number">+38595 5495 228</string>
+    <string name="linked_in_profile">Zvonimir Plivelić</string>
+    <string name="email_address">zvonimirplivelic91@gmail.com</string>
+    <string name="telephone_number_description">Telephone number</string>
+    <string name="linked_in_profile_description">Linked In</string>
+    <string name="email_description">E-mail</string>
+</resources>
